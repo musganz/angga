@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
+global.owner = ['6281235373823']
+global.ownernomer = "6281235373823"
+global.premium = ['6281235373823']
 global.packname = 'Sticker By'
-global.author = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
+global.author = 'Exsaudia'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
